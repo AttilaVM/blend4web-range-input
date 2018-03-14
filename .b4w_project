@@ -1,6 +1,6 @@
 [info]
 author = Analogika Kft.
-icon = 
+icon =
 name = slider
 title = slider
 
@@ -9,20 +9,19 @@ assets_dirs = projects/slider/assets;
 blend_dirs = projects/slider/blender;
 blender_exec = /nix/store/yhfx2zl3aprdwy2rh0sm2a4hz999frsg-blender-2.79a/bin/blender
 build_dir = projects/slider/build
-deploy_dir = 
+deploy_dir =
 
 [compile]
-apps = 
-css_ignore = 
+apps =
+css_ignore =
 engine_type = copy
-ignore = 
-js_ignore = 
+ignore = .*
+js_ignore =
 optimization = simple
 use_physics = True
 
 [deploy]
 assets_path_dest = assets
 assets_path_prefix = assets
-ignore = 
-override = 
-
+ignore =
+override =
