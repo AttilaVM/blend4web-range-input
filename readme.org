@@ -1,0 +1,3 @@
+* Responsive Input range for Blend4Web
+
+Clone this repo into your Blend4Web project directory, and download the the following [[https://www.dropbox.com/s/mpk5hcs92jvow82/slider.blend?dl%3D0][.blend file]] into its ~blender~ sub-directory.
