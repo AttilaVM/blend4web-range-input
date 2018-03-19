@@ -1,3 +1,5 @@
 blender
 assets
 build
+**.*#
+**.*~
